@@ -7,7 +7,7 @@ $ cp -r mpvfb ~/.config/
 
 2. Launch mpv with this custom command.
 
-$ mpv --config-dir=$HOME/.config/mpvf --player-operation-mode=pseudo-gui --script=/$HOME/.config/mpvf/scripts/user-input.lua 
+$ mpv --config-dir=$HOME/.config/mpvfb --player-operation-mode=pseudo-gui --script=/$HOME/.config/mpvfb/scripts/user-input.lua 
 
 
 3. Press Ctrl+o to show directory (default to $HOME).
